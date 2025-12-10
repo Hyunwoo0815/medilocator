@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://medilocator.co.kr/</loc>
-    <lastmod>2025-12-06</lastmod>
+    <lastmod>2025-12-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -13,8 +13,32 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://medilocator.co.kr/가평군-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/강릉시-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://medilocator.co.kr/거제시-야간진료-치과</loc>
     <lastmod>2025-12-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/거제시-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/거창군-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -25,8 +49,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://medilocator.co.kr/경산시-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://medilocator.co.kr/경주시-야간진료-치과</loc>
     <lastmod>2025-12-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/경주시-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -37,8 +73,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://medilocator.co.kr/고령군-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://medilocator.co.kr/고성군-야간진료-치과</loc>
     <lastmod>2025-12-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/고성군-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -49,8 +97,26 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://medilocator.co.kr/고양시-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/곡성군-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://medilocator.co.kr/공주시-야간진료-치과</loc>
     <lastmod>2025-12-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/공주시-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -61,8 +127,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://medilocator.co.kr/과천시-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://medilocator.co.kr/광명시-야간진료-치과</loc>
     <lastmod>2025-12-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/광명시-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -73,8 +151,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://medilocator.co.kr/광양시-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://medilocator.co.kr/광주-광산구-야간진료-치과</loc>
     <lastmod>2025-12-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/광주-광산구-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -85,8 +175,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://medilocator.co.kr/광주-남구-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://medilocator.co.kr/광주-동구-야간진료-치과</loc>
     <lastmod>2025-12-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/광주-동구-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -97,8 +199,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://medilocator.co.kr/광주-북구-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://medilocator.co.kr/광주-서구-야간진료-치과</loc>
     <lastmod>2025-12-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/광주-서구-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -109,8 +223,32 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://medilocator.co.kr/광주시-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/괴산군-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/구례군-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://medilocator.co.kr/구리시-야간진료-치과</loc>
     <lastmod>2025-12-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/구리시-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -121,8 +259,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://medilocator.co.kr/구미시-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://medilocator.co.kr/군산시-야간진료-치과</loc>
     <lastmod>2025-12-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/군산시-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -133,8 +283,26 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://medilocator.co.kr/군포시-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/금산군-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://medilocator.co.kr/김제시-야간진료-치과</loc>
     <lastmod>2025-12-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/김제시-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -145,8 +313,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://medilocator.co.kr/김천시-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://medilocator.co.kr/김포시-야간진료-치과</loc>
     <lastmod>2025-12-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/김포시-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -157,8 +337,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://medilocator.co.kr/김해시-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://medilocator.co.kr/나주시-야간진료-치과</loc>
     <lastmod>2025-12-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/나주시-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -169,8 +361,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://medilocator.co.kr/남양주시-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://medilocator.co.kr/남원시-야간진료-치과</loc>
     <lastmod>2025-12-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/남원시-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -181,8 +385,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://medilocator.co.kr/남해군-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://medilocator.co.kr/논산시-야간진료-치과</loc>
     <lastmod>2025-12-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/논산시-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -193,8 +409,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://medilocator.co.kr/단양군-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://medilocator.co.kr/담양군-야간진료-치과</loc>
     <lastmod>2025-12-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/담양군-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -205,8 +433,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://medilocator.co.kr/당진시-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://medilocator.co.kr/대구-군위군-야간진료-치과</loc>
     <lastmod>2025-12-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/대구-군위군-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -217,8 +457,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://medilocator.co.kr/대구-남구-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://medilocator.co.kr/대구-달서구-야간진료-치과</loc>
     <lastmod>2025-12-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/대구-달서구-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -229,8 +481,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://medilocator.co.kr/대구-달성군-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://medilocator.co.kr/대구-동구-야간진료-치과</loc>
     <lastmod>2025-12-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/대구-동구-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -241,8 +505,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://medilocator.co.kr/대구-북구-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://medilocator.co.kr/대구-서구-야간진료-치과</loc>
     <lastmod>2025-12-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/대구-서구-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -253,8 +529,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://medilocator.co.kr/대구-수성구-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://medilocator.co.kr/대구-중구-야간진료-치과</loc>
     <lastmod>2025-12-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/대구-중구-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -265,8 +553,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://medilocator.co.kr/대전-대덕구-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://medilocator.co.kr/대전-동구-야간진료-치과</loc>
     <lastmod>2025-12-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/대전-동구-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -277,8 +577,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://medilocator.co.kr/대전-서구-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://medilocator.co.kr/대전-유성구-야간진료-치과</loc>
     <lastmod>2025-12-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/대전-유성구-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -289,8 +601,26 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://medilocator.co.kr/대전-중구-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://medilocator.co.kr/동두천시-야간진료-치과</loc>
     <lastmod>2025-12-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/동두천시-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/동해시-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -301,8 +631,32 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://medilocator.co.kr/목포시-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://medilocator.co.kr/무안군-야간진료-치과</loc>
     <lastmod>2025-12-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/무안군-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/무주군-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/문경시-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -313,8 +667,38 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://medilocator.co.kr/밀양시-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/보령시-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/보성군-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://medilocator.co.kr/보은군-야간진료-치과</loc>
     <lastmod>2025-12-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/보은군-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/봉화군-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -325,8 +709,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://medilocator.co.kr/부산-강서구-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://medilocator.co.kr/부산-금정구-야간진료-치과</loc>
     <lastmod>2025-12-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/부산-금정구-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -337,8 +733,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://medilocator.co.kr/부산-기장군-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://medilocator.co.kr/부산-남구-야간진료-치과</loc>
     <lastmod>2025-12-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/부산-남구-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -349,8 +757,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://medilocator.co.kr/부산-동구-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://medilocator.co.kr/부산-동래구-야간진료-치과</loc>
     <lastmod>2025-12-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/부산-동래구-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -361,8 +781,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://medilocator.co.kr/부산-부산진구-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://medilocator.co.kr/부산-북구-야간진료-치과</loc>
     <lastmod>2025-12-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/부산-북구-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -373,8 +805,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://medilocator.co.kr/부산-사상구-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://medilocator.co.kr/부산-사하구-야간진료-치과</loc>
     <lastmod>2025-12-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/부산-사하구-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -385,8 +829,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://medilocator.co.kr/부산-서구-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://medilocator.co.kr/부산-수영구-야간진료-치과</loc>
     <lastmod>2025-12-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/부산-수영구-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -397,8 +853,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://medilocator.co.kr/부산-연제구-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://medilocator.co.kr/부산-영도구-야간진료-치과</loc>
     <lastmod>2025-12-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/부산-영도구-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -409,8 +877,32 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://medilocator.co.kr/부산-중구-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://medilocator.co.kr/부산-해운대구-야간진료-치과</loc>
     <lastmod>2025-12-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/부산-해운대구-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/부안군-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/부여군-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -421,8 +913,38 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://medilocator.co.kr/부천시-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://medilocator.co.kr/사천시-야간진료-치과</loc>
     <lastmod>2025-12-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/사천시-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/산청군-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/삼척시-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/상주시-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -433,8 +955,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://medilocator.co.kr/서귀포시-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://medilocator.co.kr/서산시-야간진료-치과</loc>
     <lastmod>2025-12-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/서산시-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -445,8 +979,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://medilocator.co.kr/서울-강남구-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://medilocator.co.kr/서울-강동구-야간진료-치과</loc>
     <lastmod>2025-12-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/서울-강동구-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -457,14 +1003,32 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://medilocator.co.kr/서울-강북구-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://medilocator.co.kr/서울-강서구-야간진료-치과</loc>
     <lastmod>2025-12-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://medilocator.co.kr/서울-강서구-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://medilocator.co.kr/서울-관악구-야간진료-치과</loc>
     <lastmod>2025-12-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/서울-관악구-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -481,8 +1045,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://medilocator.co.kr/서울-구로구-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://medilocator.co.kr/서울-금천구-야간진료-치과</loc>
     <lastmod>2025-12-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/서울-금천구-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -493,8 +1069,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://medilocator.co.kr/서울-노원구-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://medilocator.co.kr/서울-도봉구-야간진료-치과</loc>
     <lastmod>2025-12-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/서울-도봉구-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -511,8 +1099,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://medilocator.co.kr/서울-동작구-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://medilocator.co.kr/서울-마포구-야간진료-치과</loc>
     <lastmod>2025-12-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/서울-마포구-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -523,8 +1123,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://medilocator.co.kr/서울-서대문구-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://medilocator.co.kr/서울-서초구-야간진료-치과</loc>
     <lastmod>2025-12-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/서울-서초구-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -535,8 +1147,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://medilocator.co.kr/서울-성동구-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://medilocator.co.kr/서울-성북구-야간진료-치과</loc>
     <lastmod>2025-12-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/서울-성북구-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -547,8 +1171,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://medilocator.co.kr/서울-송파구-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://medilocator.co.kr/서울-양천구-야간진료-치과</loc>
     <lastmod>2025-12-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/서울-양천구-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -559,8 +1195,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://medilocator.co.kr/서울-영등포구-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://medilocator.co.kr/서울-용산구-야간진료-치과</loc>
     <lastmod>2025-12-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/서울-용산구-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -571,8 +1219,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://medilocator.co.kr/서울-은평구-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://medilocator.co.kr/서울-종로구-야간진료-치과</loc>
     <lastmod>2025-12-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/서울-종로구-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -583,8 +1243,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://medilocator.co.kr/서울-중구-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://medilocator.co.kr/서울-중랑구-야간진료-치과</loc>
     <lastmod>2025-12-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/서울-중랑구-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -601,8 +1273,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://medilocator.co.kr/성남시-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://medilocator.co.kr/성주군-야간진료-치과</loc>
     <lastmod>2025-12-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/성주군-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -613,8 +1297,32 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://medilocator.co.kr/세종시-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/속초시-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://medilocator.co.kr/수원시-야간진료-치과</loc>
     <lastmod>2025-12-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/수원시-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/순창군-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -625,8 +1333,26 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://medilocator.co.kr/순천시-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://medilocator.co.kr/시흥시-야간진료-치과</loc>
     <lastmod>2025-12-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/시흥시-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/신안군-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -637,8 +1363,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://medilocator.co.kr/아산시-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://medilocator.co.kr/안동시-야간진료-치과</loc>
     <lastmod>2025-12-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/안동시-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -649,8 +1387,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://medilocator.co.kr/안산시-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://medilocator.co.kr/안성시-야간진료-치과</loc>
     <lastmod>2025-12-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/안성시-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -661,8 +1411,32 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://medilocator.co.kr/안양시-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/양구군-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://medilocator.co.kr/양산시-야간진료-치과</loc>
     <lastmod>2025-12-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/양산시-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/양양군-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -679,8 +1453,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://medilocator.co.kr/양평군-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://medilocator.co.kr/여수시-야간진료-치과</loc>
     <lastmod>2025-12-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/여수시-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -691,8 +1477,38 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://medilocator.co.kr/여주시-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/연천군-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://medilocator.co.kr/영광군-야간진료-치과</loc>
     <lastmod>2025-12-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/영광군-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/영덕군-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/영동군-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -703,8 +1519,26 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://medilocator.co.kr/영암군-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/영월군-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://medilocator.co.kr/영주시-야간진료-치과</loc>
     <lastmod>2025-12-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/영주시-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -715,8 +1549,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://medilocator.co.kr/영천시-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://medilocator.co.kr/예산군-야간진료-치과</loc>
     <lastmod>2025-12-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/예산군-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -727,8 +1573,32 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://medilocator.co.kr/예천군-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://medilocator.co.kr/오산시-야간진료-치과</loc>
     <lastmod>2025-12-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/오산시-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/옥천군-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/완도군-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -739,8 +1609,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://medilocator.co.kr/완주군-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://medilocator.co.kr/용인시-야간진료-치과</loc>
     <lastmod>2025-12-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/용인시-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -751,8 +1633,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://medilocator.co.kr/울산-남구-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://medilocator.co.kr/울산-동구-야간진료-치과</loc>
     <lastmod>2025-12-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/울산-동구-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -763,8 +1657,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://medilocator.co.kr/울산-북구-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://medilocator.co.kr/울산-울주군-야간진료-치과</loc>
     <lastmod>2025-12-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/울산-울주군-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -775,8 +1681,32 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://medilocator.co.kr/울산-중구-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/울진군-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/원주시-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://medilocator.co.kr/음성군-야간진료-치과</loc>
     <lastmod>2025-12-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/음성군-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -787,8 +1717,26 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://medilocator.co.kr/의령군-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/의성군-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://medilocator.co.kr/의왕시-야간진료-치과</loc>
     <lastmod>2025-12-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/의왕시-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -799,8 +1747,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://medilocator.co.kr/의정부시-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://medilocator.co.kr/이천시-야간진료-치과</loc>
     <lastmod>2025-12-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/이천시-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -811,14 +1771,44 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://medilocator.co.kr/익산시-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/인제군-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/인천-강화군-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://medilocator.co.kr/인천-계양구-야간진료-치과</loc>
     <lastmod>2025-12-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://medilocator.co.kr/인천-계양구-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://medilocator.co.kr/인천-남동구-야간진료-치과</loc>
     <lastmod>2025-12-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/인천-남동구-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -835,8 +1825,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://medilocator.co.kr/인천-동구-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://medilocator.co.kr/인천-미추홀구-야간진료-치과</loc>
     <lastmod>2025-12-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/인천-미추홀구-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -847,8 +1849,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://medilocator.co.kr/인천-부평구-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://medilocator.co.kr/인천-서구-야간진료-치과</loc>
     <lastmod>2025-12-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/인천-서구-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -859,8 +1873,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://medilocator.co.kr/인천-연수구-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://medilocator.co.kr/인천-옹진군-야간진료-치과</loc>
     <lastmod>2025-12-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/인천-옹진군-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -871,8 +1897,44 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://medilocator.co.kr/인천-중구-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/임실군-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/장성군-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://medilocator.co.kr/전주시-야간진료-치과</loc>
     <lastmod>2025-12-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/전주시-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/정선군-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/정읍시-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -883,8 +1945,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://medilocator.co.kr/제주시-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://medilocator.co.kr/제천시-야간진료-치과</loc>
     <lastmod>2025-12-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/제천시-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -895,8 +1969,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://medilocator.co.kr/증평군-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://medilocator.co.kr/진주시-야간진료-치과</loc>
     <lastmod>2025-12-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/진주시-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -907,8 +1993,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://medilocator.co.kr/진천군-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://medilocator.co.kr/창녕군-야간진료-치과</loc>
     <lastmod>2025-12-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/창녕군-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -919,8 +2017,26 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://medilocator.co.kr/창원시-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://medilocator.co.kr/천안시-야간진료-치과</loc>
     <lastmod>2025-12-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/천안시-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/철원군-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -931,8 +2047,26 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://medilocator.co.kr/청도군-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://medilocator.co.kr/청주시-야간진료-치과</loc>
     <lastmod>2025-12-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/청주시-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/춘천시-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -943,8 +2077,26 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://medilocator.co.kr/충주시-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://medilocator.co.kr/칠곡군-야간진료-치과</loc>
     <lastmod>2025-12-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/칠곡군-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/태백시-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -955,8 +2107,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://medilocator.co.kr/태안군-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://medilocator.co.kr/통영시-야간진료-치과</loc>
     <lastmod>2025-12-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/통영시-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -967,8 +2131,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://medilocator.co.kr/파주시-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://medilocator.co.kr/평택시-야간진료-치과</loc>
     <lastmod>2025-12-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/평택시-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -979,8 +2155,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://medilocator.co.kr/포천시-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://medilocator.co.kr/포항시-야간진료-치과</loc>
     <lastmod>2025-12-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/포항시-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -991,14 +2179,32 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://medilocator.co.kr/하남시-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://medilocator.co.kr/하동군-야간진료-치과</loc>
     <lastmod>2025-12-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://medilocator.co.kr/하동군-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://medilocator.co.kr/함안군-야간진료-치과</loc>
     <lastmod>2025-12-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/함안군-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1015,8 +2221,26 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://medilocator.co.kr/해남군-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://medilocator.co.kr/홍성군-야간진료-치과</loc>
     <lastmod>2025-12-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/홍성군-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/홍천군-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1027,8 +2251,32 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://medilocator.co.kr/화성시-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://medilocator.co.kr/화순군-야간진료-치과</loc>
     <lastmod>2025-12-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/화순군-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/화천군-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medilocator.co.kr/횡성군-야간진료-한의원</loc>
+    <lastmod>2025-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
