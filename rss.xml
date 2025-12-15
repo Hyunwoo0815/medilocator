@@ -5,8 +5,8 @@
     <link>https://medilocator.co.kr/</link>
     <description>전국 야간진료 병원 정보를 제공하는 의료 정보 플랫폼</description>
     <language>ko-KR</language>
-    <lastBuildDate>Wed, 10 Dec 2025 11:00:08 +0900</lastBuildDate>
-    <pubDate>Wed, 10 Dec 2025 11:00:08 +0900</pubDate>
+    <lastBuildDate>Mon, 15 Dec 2025 23:47:46 +0900</lastBuildDate>
+    <pubDate>Mon, 15 Dec 2025 23:47:46 +0900</pubDate>
     <atom:link href="https://medilocator.co.kr/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>야간진료 병원 정보 - 전국 병원 예약 및 후기</title>
@@ -583,6 +583,13 @@
       <pubDate>Sat, 06 Dec 2025 00:00:00 +0900</pubDate>
     </item>
     <item>
+      <title>서울 광진구 야간진료 한의원 병원 - 예약 후기</title>
+      <link>https://medilocator.co.kr/서울-광진구-야간진료-한의원</link>
+      <guid isPermaLink="true">https://medilocator.co.kr/서울-광진구-야간진료-한의원</guid>
+      <description>서울 광진구 지역 야간진료에도 진료받을 수 있는 한의원 병원 정보. 예약 현황, 실제 후기, 전화번호, 위치까지 한번에 확인하세요.</description>
+      <pubDate>Mon, 15 Dec 2025 00:00:00 +0900</pubDate>
+    </item>
+    <item>
       <title>서울 구로구 야간진료 치과 병원 - 예약 후기</title>
       <link>https://medilocator.co.kr/서울-구로구-야간진료-치과</link>
       <guid isPermaLink="true">https://medilocator.co.kr/서울-구로구-야간진료-치과</guid>
@@ -644,6 +651,13 @@
       <guid isPermaLink="true">https://medilocator.co.kr/서울-동대문구-야간진료-치과</guid>
       <description>서울 동대문구 지역 야간진료에도 진료받을 수 있는 치과 병원 정보. 예약 현황, 실제 후기, 전화번호, 위치까지 한번에 확인하세요.</description>
       <pubDate>Sat, 06 Dec 2025 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>서울 동대문구 야간진료 한의원 병원 - 예약 후기</title>
+      <link>https://medilocator.co.kr/서울-동대문구-야간진료-한의원</link>
+      <guid isPermaLink="true">https://medilocator.co.kr/서울-동대문구-야간진료-한의원</guid>
+      <description>서울 동대문구 지역 야간진료에도 진료받을 수 있는 한의원 병원 정보. 예약 현황, 실제 후기, 전화번호, 위치까지 한번에 확인하세요.</description>
+      <pubDate>Mon, 15 Dec 2025 00:00:00 +0900</pubDate>
     </item>
     <item>
       <title>서울 동작구 야간진료 치과 병원 - 예약 후기</title>
